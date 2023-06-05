@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'rspec'
+
+$VERBOSE = nil
+#$LOAD_PATH .push( 'C:\Users\Belu\Documents\TADP\grupo5-2022-2c' )
